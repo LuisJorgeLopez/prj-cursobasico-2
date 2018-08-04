@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cambio Moneda</string>
+    <string name="title">Cambio de Moneda</string>
+    <string name="monedaDop">DOP</string>
+    <string name="monedaUsd">USD</string>
+    <string name="monedaEur">EUR</string>
+    <string name="displayMonto">Monto a calcular:</string>
+    <string name="displayTasa1">Tasa a calcular USD:</string>
+    <string name="displayTasa2">Tasa a calcular EUR:</string>
+    <string name="display1">de DOP a USD</string>
+    <string name="display2">de DOP a EUR</string>
+    <string name="displayButton">Calcular</string>
+</resources>
